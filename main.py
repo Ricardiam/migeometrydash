@@ -104,4 +104,4 @@ while True:
     pygame.draw.rect(screen, BLUE, (coord_x_rect_2, coord_y_rect_2, 50, 50))
 
     pygame.display.flip()
-clock.tick(60)
+    clock.tick(60)
